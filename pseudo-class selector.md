@@ -5,13 +5,13 @@
 - 伪类的分类(link,visited,focus,hover,active)
 
 ```css
-//静态伪类
+   //静态伪类
 a:link{color:blue;}
 a:visited {color:red;}
 //动态伪类
 :focus
 :hover
-:active
+:active·
 ```
 
 >  伪类的顺序：link-visited-focus-hover-active
